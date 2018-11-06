@@ -1,3 +1,3 @@
 # Your labs
 
-* [4th task](../lab4/)
+* [4th task](https://github.com/bsuir-labs/sabina/tree/master/lab4)
